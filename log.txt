@@ -1,0 +1,8 @@
+ID: 1 crossed going in at Thu Oct 13 14:47:24 2022
+ID: 2 crossed going in at Thu Oct 13 14:47:31 2022
+ID: 3 crossed going in at Thu Oct 13 14:47:36 2022
+ID: 5 crossed going out at Thu Oct 13 14:47:37 2022
+ID: 7 crossed going in at Thu Oct 13 14:47:41 2022
+ID: 9 crossed going out at Thu Oct 13 14:47:41 2022
+ID: 10 crossed going out at Thu Oct 13 14:47:42 2022
+ID: 9 crossed going in at Thu Oct 13 14:47:46 2022
